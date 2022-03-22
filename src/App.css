@@ -34,5 +34,6 @@
 }
 
 .navbar-brand {
+  cursor: default;
   padding: 5px;
 }
