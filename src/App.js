@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar navbar-dark bg-dark">
-        <a className="navbar-brand" href="#">Calculator with React useReducer hook</a>
+        <a className="navbar-brand" href="#">React useReducer Calculator</a>
       </nav>
 
       <div className = "container row mt-5">
